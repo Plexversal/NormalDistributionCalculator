@@ -1,0 +1,27 @@
+
+
+.p5-selection-range {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p5-sketch-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+}
+
+.p5-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: fit-content;
+    justify-self: center;
+    align-self: center;
+    margin: auto;
+}
