@@ -1,5 +1,8 @@
 # Standard Normal Distribution probability calculator
 
+![905e6363-dda9-44ea-af79-51fc41b0fb74](https://user-images.githubusercontent.com/47725871/209799605-e68f4936-f43b-4c14-9fd8-401d548d337f.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Standard normal distribution calculator made with P5.js and Next.js. Used for calculating cumulative values of X on the standard normal graph with a mean of 0 and a standard deviation of 1.
